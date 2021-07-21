@@ -1,4 +1,4 @@
-### Snappy Web Design
+![Snappy Web Design](https://i.imgur.com/7Pu2L5u.png)
 
 Snappy makes [web design & SEO](https://snappywebdesign.net/) easy for small businesses in Michigan. Creating custom designed, mobile-friendly websites with unlimited support + graphic design - [View My Portfolio!](https://snappywebdesign.net/portfolio/)
 
