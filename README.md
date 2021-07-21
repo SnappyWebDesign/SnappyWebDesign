@@ -1,12 +1,6 @@
 <p align="center">
 <a href='https://snappywebdesign.net/' style='font-size: 10px;'>Snappy Web Design</a>
 <br />
-<br />
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Material-UI" src="https://material-ui.com/static/logo_raw.svg" width="60" />
-  </a>
-</p>
-https://material-ui.com/static/logo_raw.svg
 ![Snappy Web Design](https://i.imgur.com/L73muwt.png)
 
 Snappy makes [web design & SEO](https://snappywebdesign.net/) easy for small businesses in Michigan. Creating custom designed, mobile-friendly websites with unlimited support + graphic design - [View My Portfolio!](https://snappywebdesign.net/portfolio/)
