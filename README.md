@@ -1,16 +1,20 @@
-### Hi there 👋
+### Snappy Web Design
 
-<!--
-**SnappyWebDesign/SnappyWebDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Snappy makes [web design & SEO](https://snappywebdesign.net/) easy for small businesses in Michigan. Creating custom designed, mobile-friendly websites with unlimited support + graphic design - [View My Portfolio!](https://snappywebdesign.net/portfolio/)
 
-Here are some ideas to get you started:
+Our websites are headache free, **blazing fast**, and mobile friendly / responsive.
+We write every line of code by hand & package it with the latest technology to provide unmatched speed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: start@snappywebdesign.net - (734)-489-9055 
+
+We provide web design, development, hosting, graphic design, and [SEO to the following locations](https://snappywebdesign.net/locations/) in-person, and the rest of the US virtually:
+- [Brighton MI](https://snappywebdesign.net/locations/brighton/) 
+- [Ann Arbor MI](https://snappywebdesign.net/locations/ann-arbor/)
+- [Detroit MI](https://snappywebdesign.net/locations/detroit)
+- [Whitmore Lake MI](https://snappywebdesign.net/locations/whitmore-lake)
+- [Howell MI](https://snappywebdesign.net/locations/howell)
+- [South Lyon MI](https://snappywebdesign.net/locations/south-lyon)
+- [Southfield MI](https://snappywebdesign.net/locations/southfield)
+
+### Contact Us!
+https://snappywebdesign.net/contact
